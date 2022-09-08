@@ -1,0 +1,9 @@
+{
+	"name": "AB-DF-1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9941b8ad-f772-435d-a8f4-c2b4d74bc577",
+		"tenantId": "3acab69f-0313-40a2-b634-2b6365744d01"
+	}
+}
